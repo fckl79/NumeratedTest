@@ -35,5 +35,5 @@
       
 #### 3. Important
 ---
-   1. Any errors affecting sought for result will be propagated, so that they could be shown to the user
-   2. We are making several attempts to connect to the server to get the data needed before we exit
+   1. We are making several attempts to connect to the server to get the data needed before we exit
+   2. Any fatal errors could be communicated with the user - we are saving these errors
