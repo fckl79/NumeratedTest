@@ -24,7 +24,7 @@
      
      _$ python3.* run.py_
      
-     It will run some sample test case - it gives a good idea about inputs and outputs
+     It will run some sample test cases - the code gives a better idea about inputs and outputs
      
   2. Dependencies - _requests, json, datetime, unittest_
   3. Test cases are located in _test/test_dataform.py_
@@ -35,5 +35,5 @@
       
 #### 3. Important
 ---
-   1. Any errors affecting sought for result will are propagated, so that they could be shown to the user
+   1. Any errors affecting sought for result will be propagated, so that they could be shown to the user
    2. We are making several attempts to connect to the server to get the data needed before we exit
