@@ -15,7 +15,7 @@
       5. Calculate predicted departure time - _extract_departure_time_
   3. Module _run.py_ is merely a wrapper to _data/dataform.py_, and it is data interface to UI
       1. This module is in the root
-      2. __We do not provide UI here - we worked on the code exchange piece only__
+      2. __We do not provide UI here - our code is all about data exchange!__
 
 
 #### 2. How to Run
